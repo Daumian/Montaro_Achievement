@@ -1,4 +1,4 @@
-![imagen](/main/imagen.jpg)
+![imagen](imagen.jpg)
 
 
 # Montaro Modificar Archivos Guardado para obtener Logros rapidos
