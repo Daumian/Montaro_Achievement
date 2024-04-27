@@ -1,4 +1,7 @@
-# Montaro Modificar Archivos Guardado
+![imagen](/main/imagen.jpg)
+
+
+# Montaro Modificar Archivos Guardado para obtener Logros rapidos
 Este codigo es un modificador de guardados del juego **MONTARO** disponible en steam [enlace al juego](https://store.steampowered.com/app/495890/Montaro/)
 
 ##Pasos
